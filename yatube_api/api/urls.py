@@ -14,5 +14,5 @@ router.register(
 router.register('follow', FollowsViewSet, basename='follows')
 
 urlpatterns = [
-    path('', include(router.urls)),
+    path('v1/', include(router.urls)),
 ]
