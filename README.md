@@ -1,4 +1,4 @@
-##API для соц. сети [Yatube](https://github.com/AsseylumVA/hw05_final "Yatube")
+## API для соц. сети [Yatube](https://github.com/AsseylumVA/hw05_final "Yatube")
 
 
 ### Функционал:
